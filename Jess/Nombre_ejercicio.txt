@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 29 agosto 2024
+=======
+29 agosto 2024
+>>>>>>> ParticipanteB
 Me llamo Jessica Marlene y tengo 23 años 
